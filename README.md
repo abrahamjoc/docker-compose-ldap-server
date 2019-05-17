@@ -9,7 +9,7 @@ $ docker-compose up
 ```
 
 ```shell
-Open [front](http://localhost:8080) and uses 
+Open http://localhost:8080
 dn = "cn=admin,dc=example,dc=org"
 pass = "admin"
 ```
@@ -19,6 +19,7 @@ pass = "admin"
 https://www.ws.afnog.org/afnog2017/sse/ldap/Openldap%20presentation.pdf (Basic concepts)
 
 https://www.youtube.com/watch?v=DM_UQVVVtoY (Tutorial)
+
 
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/osixia/openldap.svg)
